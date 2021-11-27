@@ -1,7 +1,7 @@
-# Mini-google-docs-server
+# Mini-google-docs-server-clone
 
 
-# Backend Server For My Mini-Google-Docs-Server
+# Backend Server For My Mini-Google-Docs-Server-clone
  
 
 Steps to run this project:
